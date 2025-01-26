@@ -29,4 +29,4 @@ This project demonstrates the implementation of a **Decision Tree Regressor** us
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Zus-00/Decision_Tree.git
+   git clone https://github.com/Zus-00/Decision_Tree_Regressor_From_Scratch
